@@ -26,8 +26,6 @@
    &nbsp&nbsp&nbsp
    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="32px"/>
    &nbsp&nbsp&nbsp
-   <img src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png" width="32px"/>
-   &nbsp&nbsp&nbsp
    <img src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png" width="34px"/>
    &nbsp&nbsp&nbsp
 </div>
