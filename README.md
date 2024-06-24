@@ -2,7 +2,7 @@
 <br/>
 📍   **Slovenia, Europe**
 <br/>
-⚡️   **Building scalable web & mobile applications and integrating advanced machine learning solutions**
+🚀   **Building scalable web & mobile applications and integrating advanced machine learning solutions**
 
 - Pursuing a Master's degree in Informatics and data technologies
 - Open to exciting challenges and eager to expand my skills
