@@ -22,6 +22,8 @@
    &nbsp&nbsp&nbsp
    <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" width="32px" />
    &nbsp&nbsp&nbsp
+   <img src="https://brandslogos.com/wp-content/uploads/images/large/vue-logo.png" width="32px" />
+   &nbsp&nbsp&nbsp
    <img src="https://docs.nestjs.com/assets/logo-small.svg" width="32px"/>
    &nbsp&nbsp&nbsp
    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="32px"/>
