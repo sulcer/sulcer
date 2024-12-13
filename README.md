@@ -35,8 +35,6 @@
    <img src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png" width="25px"/>
    &nbsp&nbsp&nbsp
    &nbsp&nbsp&nbsp
-   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="28px" height="19px"/>
-   &nbsp&nbsp&nbsp
    <img src="https://brandslogos.com/wp-content/uploads/images/large/rabbitmq-logo.png" width="16px"/>
    &nbsp&nbsp&nbsp
    <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="25px"/>
