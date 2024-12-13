@@ -6,30 +6,54 @@
 
 - Pursuing a Master's degree in Informatics and data technologies
 - Open to exciting challenges and eager to expand my skills
-- Feel free to reach out for collaboration or potential opportunities
+- Always open to collaborations and new opportunities
 
 #### Technologies
 <div>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="32px"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="25px"/>
    &nbsp&nbsp&nbsp
-   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="32px"/>
+   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="25px"/>
    &nbsp&nbsp&nbsp
-   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo.png" width="28px" height="43px"/>
+   <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo.png" width="23px" height="35px"/>
    &nbsp&nbsp&nbsp
-   <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" width="32px" height="32px"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" width="26px" height="25px"/>
    &nbsp&nbsp&nbsp
-   <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="32px"/>
+   <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="25px"/>
    &nbsp&nbsp&nbsp
-   <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" width="32px" />
+   <img src="https://brandslogos.com/wp-content/uploads/images/large/react-logo.png" width="25px" />
    &nbsp&nbsp&nbsp
-   <img src="https://brandslogos.com/wp-content/uploads/images/large/vue-logo.png" width="32px" />
+   <img src="https://brandslogos.com/wp-content/uploads/images/large/vue-logo.png" width="25px" />
    &nbsp&nbsp&nbsp
-   <img src="https://docs.nestjs.com/assets/logo-small.svg" width="32px"/>
+   <img src="https://docs.nestjs.com/assets/logo-small.svg" width="26px"/>
    &nbsp&nbsp&nbsp
-   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="32px"/>
+   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="23px"/>
    &nbsp&nbsp&nbsp
-   <img src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png" width="30px"/>
+   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="25px"/>
    &nbsp&nbsp&nbsp
-   <img src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png" width="34px"/>
+   <img src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png" width="25px"/>
    &nbsp&nbsp&nbsp
+   <img src="https://brandslogos.com/wp-content/uploads/images/large/docker-logo.png" width="29px"/>
+   &nbsp&nbsp&nbsp
+   &nbsp&nbsp&nbsp
+   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="32px" height="23px"/>
+   &nbsp&nbsp&nbsp
+   <img src="https://brandslogos.com/wp-content/uploads/images/large/rabbitmq-logo.png" width="20px"/>
+   &nbsp&nbsp&nbsp
+   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="29px"/>
+   &nbsp&nbsp&nbsp
+   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="25px"/>
+   &nbsp&nbsp&nbsp
+   <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" width="25px"/>
+   &nbsp&nbsp&nbsp
+   <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" width="25px"/>
+   &nbsp&nbsp&nbsp
+   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="19px"/>
+   &nbsp&nbsp&nbsp
+   <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="20px"/>
+   &nbsp&nbsp&nbsp
+   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="29px"/>
+   &nbsp&nbsp&nbsp
+   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="28px"/>
+   &nbsp&nbsp&nbsp
+   
 </div>
