@@ -4,9 +4,9 @@
 <br/>
 🚀   **Building scalable web & mobile applications and integrating advanced machine learning solutions**
 
-- Pursuing a Master's degree in Informatics and data technologies
-- Open to exciting challenges and eager to expand my skills
-- Always open to collaborations and new opportunities
+- Currently pursuing a Master's degree in Informatics and Data Technologies
+- Results-driven professional transforming complex challenges into reality
+- Versatile expertise across DevOps, Data Engineering, and Machine Learning
 
 #### Technologies
 <div>
