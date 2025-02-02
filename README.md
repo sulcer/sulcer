@@ -26,8 +26,6 @@
    &nbsp&nbsp&nbsp
    <img src="https://docs.nestjs.com/assets/logo-small.svg" width="22px"/>
    &nbsp&nbsp&nbsp
-   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="19px"/>
-   &nbsp&nbsp&nbsp
    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="21px"/>
    &nbsp&nbsp&nbsp
    <img src="https://brandslogos.com/wp-content/uploads/images/large/spring-logo.png" width="21px"/>
