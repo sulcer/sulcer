@@ -4,10 +4,6 @@
 <br/>
 ⚡   **Building scalable web & mobile applications and integrating advanced machine learning solutions**
 
-- Currently pursuing a Master's degree in Informatics and Data Technologies
-- Results-driven professional transforming complex challenges into reality
-- Versatile expertise across DevOps, Data Engineering, and Machine Learning
-
 #### Technologies
 <div>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="21px"/>
