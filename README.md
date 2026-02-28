@@ -2,7 +2,7 @@
 <br/>
 📍   **Slovenia, Europe**
 <br/>
-⚡   **Building scalable web & mobile applications and integrating advanced machine learning solutions**
+🚀   **Building AI-native, scalable systems that power the next era of software.**
 
 #### Technologies
 <div>
