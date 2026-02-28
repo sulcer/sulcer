@@ -2,7 +2,7 @@
 <br/>
 📍   **Slovenia, Europe**
 <br/>
-🚀   **Building AI-native, scalable systems that power the next era of software.**
+🚀   **Building AI-native, scalable systems that power the next era of software**
 
 #### Technologies
 <div>
